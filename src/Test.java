@@ -3,3 +3,6 @@ public class Test {
         System.out.println("Hello");
     }
 }
+
+// create a branch from staging
+// feature_yourname
