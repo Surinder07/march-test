@@ -1,8 +1,7 @@
 public class Test {
     public static void main(String[] args) {
-        System.out.println("Hello");
+        System.out.println("This is a test.");
     }
 }
 
-// create a branch from staging
-// feature_yourname
+//changes made by Ravneet.
